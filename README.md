@@ -108,3 +108,7 @@ that if we collaborate we can together gift our knowledge and technology to the
 world for the benefit of humanity.
 
 Check out our [contributing guide](CONTRIBUTING.md) to get started.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LAION-AI/Open-Assistant&type=Date)](https://star-history.com/#LAION-AI/Open-Assistant&Date)
